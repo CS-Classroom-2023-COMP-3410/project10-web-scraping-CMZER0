@@ -1,0 +1,90 @@
+
+--- Found "scoreboard" ---
+ver-pioneers-womens-soccer-tickets">Buy or Sell Women&#39;s Soccer Tickets on SeatGeek</a>
+
+    <a href="https://seatgeek.com/denver-pioneers-womens-volleyball-tickets">Buy or Sell Volleyball Tickets on SeatGeek</a>
+
+</div>
+<!-- /ko -->
+                    </nav>
+                    <search-component></search-component>
+                </div>
+                
+            </header>
+
+			<main class="main-content-placeholder" id="main-content">
+				
+
+    <section aria-labelledby="h2_scoreboard">
+        <h2 class="hide" id="h2_scoreboard">Scoreboard</h2>
+        
+
+<script>
+    var obj = {"start":0,"count":20,"name":"foo","sport_id":null,"count_breakpoints":null,"css_class":"","pinned_id":"","extra":{"school_name":"University of Denver"},"context":null,"dummy":false,"type":"events","id":"13bad80e-3ddb-4251-bcf5-48f63403e7b3","data":[{"id":15232,"game_pregame_story_id":null,"game_postgame_story_id":null,"date":"2025-02-21T17:00:00","end_date":null,"date_utc":"2025-02-22T
+----------------------
+
+--- Found "event" ---
+teElement('iframe');t.style.cssText='display:none',t.name=e,document.body.appendChild(t)}else window.setTimeout(window.__gppaddFrame,10,e)}},window.__gpp_stub=function(){var e=arguments;if(__gpp.queue=__gpp.queue||[],!e.length)return __gpp.queue;var t=e[0],a=e.length>1?e[1]:null,n=e.length>2?e[2]:null;if('ping'===t)return{gppVersion:'1.1',cmpStatus:'stub',cmpDisplayStatus:'hidden',supportedAPIs:['2:tcfeuv2','5:tcfcav1','6:uspv1'],cmpId:31,sectionList:[],applicableSections:[-1],gppString:''};if('events'===t)return __gpp.events;if('addEventListener'===t){__gpp.events=__gpp.events||[],'lastId'in __gpp||(__gpp.lastId=0),__gpp.lastId++;var s=__gpp.lastId;return __gpp.events.push({id:s,callback:a,parameter:n}),{eventName:'listenerRegistered',listenerId:s,data:!0,pingData:{gppVersion:'1.1',cmpStatus:'stub',cmpDisplayStatus:'hidden',supportedAPIs:['2:tcfeuv2','5:tcfcav1','9:usva','7:usnat'],cmpId:31,sectionList:[],applicableSections:[-1],gppString:''}}}if('removeEventListener'===t){var p=!1;__
+----------------------
+
+--- Found "game" ---
+ull,"rank":5,"column":1,"url":"/index.aspx?path=mbball","separator":false,"open_in_new_window":false,"sport_id_association":2,"sport":{"id":2,"title":"Men's Basketball","abbreviation":"MBB","shortname":"mbball","short_title":"M Basketball","global_sport_id":null,"non_sport":false,"show_at_vs":false,"global_sport_shortname":"mbball","gender":null,"youtube":null,"facebook":null,"twitter":null,"instagram":null,"pinterest":null,"tickets":null,"global_sport_name_slug":null,"url":null,"ranking":null,"game_synonym":null},"class_name":null,"social_media_links":[{"id":0,"title":"Facebook","short_title":null,"rank":0,"column":0,"url":"https://www.facebook.com/DenverMensBasketball/","separator":false,"open_in_new_window":false,"sport_id_association":null,"sport":null,"class_name":"facebook","social_media_links":null,"schedule_roster_news_links":null,"items":null,"stats":null,"tickets":null,"youtube":null},{"id":0,"title":"Twitter","short_title":null,"rank":0,"column":0,"url":"//twitter.com/DU_men
+----------------------
+
+--- Found "match" ---
+,"program":null,"program_text":null},"story":{"title":"No. 70 Denver Men’s Tennis Heads to Utah for Two Power-4 Match Ups","title_in_rotator":false,"sub_headline":null,"teaser":null,"type":null,"byline":null,"app_exclusive":false,"sport_display":null,"sport":null,"sport_shortname":null,"image_source":"/images/2025/2/26/yamaguchi_rikuto_20241102_ColoradoCup_BE_.jpg","image_focal_point":null,"image_alt_text":null,"video":null,"url":"/news/2025/2/26/denver-mens-tennis-heads-to-utah-for-two-power-4-match-ups.aspx","redirect_absolute_url":null,"links":null,"homepage_feed_template":null,"game_id":null,"games":null,"gallery_id":null,"writer":null,"id":32008,"content_id":"32008","content_title":"No. 70 Denver Men’s Tennis Heads to Utah for Two Power-4 Match Ups","content_date":"2025-02-26T15:09:53.78","content_url":"http://denverpioneers.com/news/2025/2/26/denver-mens-tennis-heads-to-utah-for-two-power-4-match-ups.aspx","content_image_url":"http://denverpioneers.com/images/2025/2/26/yamaguchi_
+----------------------
+
+--- Found "vs" ---
+"include_social_media":true,"include_schedule_roster_news":true,"include_stats":false,"include_tickets":false,"include_youtube":false,"class_name":null,"items":[{"id":98,"title":"Basketball (M)","short_title":null,"rank":5,"column":1,"url":"/index.aspx?path=mbball","separator":false,"open_in_new_window":false,"sport_id_association":2,"sport":{"id":2,"title":"Men's Basketball","abbreviation":"MBB","shortname":"mbball","short_title":"M Basketball","global_sport_id":null,"non_sport":false,"show_at_vs":false,"global_sport_shortname":"mbball","gender":null,"youtube":null,"facebook":null,"twitter":null,"instagram":null,"pinterest":null,"tickets":null,"global_sport_name_slug":null,"url":null,"ranking":null,"game_synonym":null},"class_name":null,"social_media_links":[{"id":0,"title":"Facebook","short_title":null,"rank":0,"column":0,"url":"https://www.facebook.com/DenverMensBasketball/","separator":false,"open_in_new_window":false,"sport_id_association":null,"sport":null,"class_name":"facebook"
+----------------------
+
+--- Found "date" ---
+nc="" src="https://www.googletagmanager.com/gtag/js?id=DC-11225843"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'DC-11225843');
+gtag('config', 'AW-312631831');
+</script>
+<!-- End of global snippet: Please do not remove -->
+
+
+<!--
+Event snippet for DU Athletics Sitewide on https://denverpioneers.com: Please do not remove.
+Place this snippet on pages with events you’re tracking. 
+Creation date: 08/24/2021
+-->
+<script>
+  gtag('event', 'conversion', {
+    'allow_custom_scripts': true,
+    'send_to': 'DC-11225843/denve0/duath0+standard'
+  });
+</script>
+<noscript>
+<img src="https://ad.doubleclick.net/ddm/activity/src=11225843;type=denve0;cat=duath0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ord=1?" width="1" height="1" alt="">
+</noscript>
+<!-- End of event snippet: Please do not remove --><script type="text/javascript">
+----------------------
+
+--- Found "time" ---
+new Date().getTime(),event:'gtm.js'});var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-TW6R675');
+            </script>
+            <!-- End Google Tag Manager --><script> 
+                Date.prototype.to_iso_with_offset = function() {
+                    var time_zone_offset = -this.getTimezoneOffset(),
+                        time_zone_diff = time_zone_offset >= 0 ? '+' : '-',
+                        pad = function(num) {
+                            var norm = Math.floor(Math.abs(num));
+                            return (norm < 10 ? '0' : '') + norm;
+                        };
+                    return this.getFullYear() +
+                        '-' + pad(this.getMonth() + 1) +
+                        '-' + pad(this.getDate()) +
+       
+----------------------

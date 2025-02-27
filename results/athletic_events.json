@@ -1,0 +1,104 @@
+{
+    "events": [
+        {
+            "duTeam": "M Tennis",
+            "opponent": "#65 Utah State",
+            "date": "2025-02-21T17:00:00"
+        },
+        {
+            "duTeam": "W Gymnastics",
+            "opponent": "(4) Utah",
+            "date": "2025-02-21T19:00:00"
+        },
+        {
+            "duTeam": "Skiing",
+            "opponent": "Slalom",
+            "date": "2025-02-22T00:00:00"
+        },
+        {
+            "duTeam": "Skiing",
+            "opponent": "20K Freestyle",
+            "date": "2025-02-22T00:00:00"
+        },
+        {
+            "duTeam": "M Lacrosse",
+            "opponent": "#3 Cornell",
+            "date": "2025-02-22T09:30:00"
+        },
+        {
+            "duTeam": "M Soccer",
+            "opponent": "New Mexico United",
+            "date": "2025-02-22T12:00:00"
+        },
+        {
+            "duTeam": "W Basketball",
+            "opponent": "North Dakota",
+            "date": "2025-02-22T13:00:00"
+        },
+        {
+            "duTeam": "M Hockey",
+            "opponent": "Miami",
+            "date": "2025-02-22T16:00:00"
+        },
+        {
+            "duTeam": "M Tennis",
+            "opponent": "Jacksonville State",
+            "date": "2025-02-23T10:30:00"
+        },
+        {
+            "duTeam": "W Lacrosse",
+            "opponent": "San Diego State",
+            "date": "2025-02-23T13:00:00"
+        },
+        {
+            "duTeam": "W Basketball",
+            "opponent": "South Dakota State",
+            "date": "2025-02-27T00:00:00"
+        },
+        {
+            "duTeam": "M Basketball",
+            "opponent": "Kansas City",
+            "date": "2025-02-27T18:00:00"
+        },
+        {
+            "duTeam": "M Tennis",
+            "opponent": "BYU",
+            "date": "2025-02-28T17:00:00"
+        },
+        {
+            "duTeam": "W Gymnastics",
+            "opponent": "Iowa State, (18) NC State",
+            "date": "2025-02-28T17:30:00"
+        },
+        {
+            "duTeam": "M Lacrosse",
+            "opponent": "Marist",
+            "date": "2025-02-28T18:00:00"
+        },
+        {
+            "duTeam": "M Hockey",
+            "opponent": "St. Cloud State",
+            "date": "2025-02-28T19:00:00"
+        },
+        {
+            "duTeam": "W Basketball",
+            "opponent": "South Dakota",
+            "date": "2025-03-01T00:00:00"
+        },
+        {
+            "duTeam": "W Lacrosse",
+            "opponent": "Maryland",
+            "date": "2025-03-01T10:00:00"
+        },
+        {
+            "duTeam": "M Basketball",
+            "opponent": "South Dakota State",
+            "date": "2025-03-01T13:00:00"
+        },
+        {
+            "duTeam": "W Tennis",
+            "opponent": "Kansas City",
+            "date": "2025-03-01T13:30:00"
+        }
+    ]
+}

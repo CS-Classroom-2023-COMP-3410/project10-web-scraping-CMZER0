@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "course": "COMP-3000",
+            "title": "Seminar: The Real World (1 Credit)",
+            "description": "Series of lectures by alumni and others on surviving culture shock when leaving the University and entering the job world.  Open to all students regardless of major. Cross listed with MATH 3000."
+        },
+        {
+            "course": "COMP-3372",
+            "title": "Advanced Algorithms (4 Credits)",
+            "description": "Advanced techniques for the design and analysis of algorithms and data structures; amortized complexity, self-adjusting data structures; randomized , online, and string algorithms; NP-completeness, approximation and exact exponential algorithms; flow networks."
+        },
+        {
+            "course": "COMP-3441",
+            "title": "Introduction to Probability and Statistics for Data Science (4 Credits)",
+            "description": "The course introduces fundamentals of probability for data science. Students survey data visualization methods and summary statistics, develop models for data, and apply statistical techniques to assess the validity of the models. The techniques will include parametric and nonparametric methods for parameter estimation and hypothesis testing for a single sample mean and two sample means, for proportions, and for simple linear regression. Students will acquire sound theoretical footing for the methods where practical, and will apply them to real-world data, primarily using R."
+        },
+        {
+            "course": "COMP-3455",
+            "title": "Shell Scripting and System Tools (4 Credits)",
+            "description": "This course covers navigating and utilizing tools in a UNIX environment, including use of common command line utilities, Bash and Python shell scripting, source control via Git, pipes and I/O redirection, networking in Python and OS multi-processing/multi-threading. More emphasis will be placed on using these tools than on how those tools work. Students should have experience with Python prior to taking this course."
+        },
+        {
+            "course": "COMP-3701",
+            "title": "Topics in Computer Graphics (4 Credits)",
+            "description": ""
+        },
+        {
+            "course": "COMP-3702",
+            "title": "Topics in Database (4 Credits)",
+            "description": ""
+        },
+        {
+            "course": "COMP-3703",
+            "title": "Topics-Artificial Intelligence (4 Credits)",
+            "description": ""
+        },
+        {
+            "course": "COMP-3704",
+            "title": "Advanced Topics: Systems (4 Credits)",
+            "description": ""
+        },
+        {
+            "course": "COMP-3705",
+            "title": "Topics in Computer Science (1-4 Credits)",
+            "description": ""
+        },
+        {
+            "course": "COMP-3991",
+            "title": "Independent Study (1-10 Credits)",
+            "description": "Cannot be arranged for any course that appears in the regular course schedule for that particular year."
+        },
+        {
+            "course": "COMP-3995",
+            "title": "Independent Research (1-10 Credits)",
+            "description": ""
+        }
+    ]
+}
